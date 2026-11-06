@@ -37,6 +37,7 @@ No fundo turquesa, use texto preto. Não substitua o preto da marca por `#000`.
 - **Títulos:** Bricolage Grotesque, peso 700–800, espaçamento entre letras de −.04em a −.05em.
 - **Corpo e interface:** Inter, 16–18 px, entrelinha de 1.5–1.6.
 - **Dados técnicos:** JetBrains Mono, apenas quando a leitura monoespaçada tiver utilidade.
+- **Arquivos:** carregue `fonts.css` e os WOFF2 em `fonts/` (Bricolage Grotesque, Inter, Inter Outline 650 e JetBrains Mono); mantenha fallback de sistema.
 - **Lettering vazado:** Inter 650, em trechos grandes do título. Desenhe o contorno antes do preenchimento com `paint-order: stroke fill`; o preenchimento deve ter a cor exata da superfície. Isso evita linhas internas atravessando as letras.
 
 ## Layout e componentes
