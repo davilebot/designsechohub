@@ -55,4 +55,4 @@ No fundo turquesa, use texto preto. Não substitua o preto da marca por `#000`.
 - Prefira transições de 100–300 ms em interações. Momentos autorais maiores devem ter propósito e respeitar `prefers-reduced-motion`.
 - No celular, reorganize blocos e controles para a largura disponível, sem rolagem horizontal. Priorize legibilidade e uma ação clara por bloco.
 
-Veja `tokens.css` para os valores CSS e `assets/` para os arquivos oficiais da marca.
+Veja `design-system.html` para a prévia visual, `tokens.css` para os valores CSS e `assets/` para os arquivos oficiais da marca.
